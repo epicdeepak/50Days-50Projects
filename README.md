@@ -1,7 +1,7 @@
 # Journey With Js
 ## About
 ### This repo Projects that I completed in continous Days to brush up my frontend skills.
-| S.No.  | Project Name  | Demo Here  | 
+| S.No.  | Project Name  | Live Here  | 
 |:-:|:-:|:-:|
 |1   |  <a href="https://github.com/epicdeepak/50Days-50Projects/tree/main/1-Expanding-Cards" target="_blank" rel="noopener noreferrer">Expanding Cards</a> | <a href="https://epicdeepak.github.io/50Days-50Projects/1-Expanding-Cards/" target="_blank" rel="noopener noreferrer">Live Here</a>  |  
 | 2  | <a href="https://github.com/epicdeepak/50Days-50Projects/tree/main/2-Progress-Steps" target="_blank" rel="noopener noreferrer">Progress Steps</a>  | <a href="https://epicdeepak.github.io/50Days-50Projects/2-Progress-Steps" target="_blank" rel="noopener noreferrer">Live Here</a>  |
